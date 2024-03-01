@@ -21,8 +21,16 @@ def create_app():
     return app
 
 """
+init
+pip install Flask-Migrate
+flask db init
+
+upgrade
 flask db migrate -m "マイグレーションの説明"
 flask db upgrade
+
+cancel
+flask db downgrade
 """
 
 """
