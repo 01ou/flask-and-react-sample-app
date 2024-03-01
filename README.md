@@ -1,1 +1,1 @@
-# flask-and-react-template# flask-and-react-sample-app
+# flask-and-react-sample-app
