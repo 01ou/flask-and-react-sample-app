@@ -1,3 +1,12 @@
+# Python
+*.pyc
+venv/
+env/
+*.sqlite3
+
+# Flask-Migrate
+/migrations/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
